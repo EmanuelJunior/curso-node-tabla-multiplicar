@@ -1,0 +1,17 @@
+{
+  "name": "03-bases-node",
+  "version": "0.0.2",
+  "description": "Es una simple tabla de multiplicar con archivo de texto",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "base3": "node app.js --base=3"
+  },
+  "author": "Emanuel Garcés Zuluaga\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[C\u001b[e",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^17.0.1"
+  },
+  "devDependencies": {}
+}
